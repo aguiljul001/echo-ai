@@ -1,0 +1,5 @@
+{
+  "name": "Info-to-Audio AI",
+  "description": "An application that transforms long-form text content from articles or other sources into a concise, learnable audio summary using AI.",
+  "requestFramePermissions": []
+}
